@@ -1,0 +1,6 @@
+<module>
+    <inherits name="com.google.gwt.user.User"/>
+    <entry-point class="dev.saure.App"/>
+    <source path="dev/"/>
+    <public path="public"/>
+</module>
